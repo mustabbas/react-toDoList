@@ -5,18 +5,21 @@ const Header = () => {
     padding: '20px 0',
     lineHeight: '1.5em',
   };
+
+  const heading = {
+    fontSize: '6rem',
+    fontWeight: '600',
+    marginBottom: '2rem',
+    lineHeight: '1em',
+    color: '#ececec',
+    textTransform: 'lowercase',
+    textAlign: 'center',
+  };
+
   return (
     <header style={headerStyle}>
       <h1
-      style={{
-        fontSize: '6rem',
-        fontWeight: '600',
-        marginBottom: '2rem',
-        lineHeight: '1em',
-        color: '#ececec',
-        textTransform: 'lowercase',
-        textAlign: 'center',
-      }}
+      style={heading}
       >todos</h1>
     </header>
   );
