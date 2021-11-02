@@ -1,8 +1,8 @@
-# Math magicians
+# react-toDoList
 
-"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
-Make simple calculations.
-Read a random math-related quote.
+"react-toDoList" is a website for all fans of Todos. It is a Single Page App (SPA) that allows users to:
+Add todos.
+Navigate the page.
 
 
 ![screenshot](./app_screenshot.png)
