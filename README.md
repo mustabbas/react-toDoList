@@ -1,75 +1,50 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# react-toDoList
 
-# Project Name
+"react-toDoList" is a website for all fans of Todos. It is a Single Page App (SPA) that allows users to:
+Add todos.
+Navigate the page.
 
-> One paragraph statement about the project.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+-  React, CSS, JavaScript
+-  Visual Studio Code: A source code editor
+-  Git: A tool for managing source code
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://mustabbas.github.io/react-toDoList/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Download the ZIP from this [Link](https://github.com/mustabbas/react-toDoList), or run the following git command to clone the files to your machine:
 
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+git clone https://github.com/mustabbas/react-toDoList.git
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **MUSTAFA ABBAS**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/mustabbas)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mustafa-abbas-7555ba10a)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/mustabbas/react-toDoList/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
